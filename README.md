@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 ---
-<!--
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.ookojie.vercel.app/api?username=ookojie&show_icons=true&hide_border=true" />
 
--->
 
 ### Languages and Tools:
 
@@ -45,7 +42,12 @@ Here are some ideas to get you started:
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ookojie)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br />
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ookojie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [course]: https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/dynamic-websites-with-node-and-express?u=55034593
