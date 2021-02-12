@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a Virtual Experience program with JPMorgan Chase
-- 🌱 I’m currently learning to develop dynamic websites on this LinkedIn course: [Building a website with Node.js and Express][course]
+- 🔭 I’m currently working as an Agile Software Engineer at TribalScale
+- 🌱 I’m currently teaching myself React.js with this Codecademy course: [Learn React][course]
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with Secure User Authentication using SnapKit
+- 🤔 I’m looking for help integrating Firebase with React or React Native as an authenticator and backend
 - 💬 Ask me about life as an international engineering student __or__ how to escape tutorial hell:fire:
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ookojie)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-[course]: https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/dynamic-websites-with-node-and-express?u=55034593
+[course]: https://www.codecademy.com/learn/react-101
 [linkedin]: https://www.linkedin.com/in/odianosen-okojie/
 [instagram]: https://www.instagram.com/odianosen_o/
 [javascript]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
