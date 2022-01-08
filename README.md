@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working as an Agile Software Engineer at TribalScale
-- 🌱 I’m currently teaching myself React.js with this Codecademy course: [Learn React][course]
+- 🔭 I’m currently working as a Hardware Engineer at Kepler Communications
+- 🌱 I’m currently improving my pcb layout skills and Python
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help integrating Firebase with React or React Native as an authenticator and backend
 - 💬 Ask me about life as an international engineering student __or__ how to escape tutorial hell:fire:
@@ -55,7 +55,6 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ookojie)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-[course]: https://www.codecademy.com/learn/react-101
 [linkedin]: https://www.linkedin.com/in/odianosen-okojie/
 [instagram]: https://www.instagram.com/odianosen_o/
 [javascript]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
