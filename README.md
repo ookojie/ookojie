@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as a Hardware Engineer at Kepler Communications
-- 🌱 I’m currently improving my pcb layout skills and Python
+- 🌱 I’m currently improving my pcb layout skills and Python skills
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help integrating Firebase with React or React Native as an authenticator and backend
 - 💬 Ask me about life as an international engineering student __or__ how to escape tutorial hell:fire:
