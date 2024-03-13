@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working as a Hardware Engineer at Kepler Communications
+- 🔭 I’m currently a Mechatronics Engineering student at the University of Waterloo
 - 🌱 I’m currently improving my PCB layout skills and Python skills
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help integrating Firebase with React or React Native as an authenticator and backend
